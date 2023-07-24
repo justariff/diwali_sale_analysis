@@ -43,9 +43,3 @@ The data analysis includes visualizations of various aspects of the Diwali sales
 
 ## Conclusion
 The Diwali Sales Data Analysis project provides valuable insights into customer demographics, product preferences, and state-wise performance during the Diwali sales season. The visualizations allow us to understand key trends and patterns, helping businesses make data-driven decisions to optimize their sales strategies.
-
-## Contributing
-We welcome contributions to improve the project! If you have any suggestions or find any issues, please feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
