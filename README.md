@@ -1,4 +1,4 @@
-# Diwali Sales Data Analysis Project
+# Diwali Sales Analysis
 
 ![Diwali Sales](https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2019-10/diwalisale.jpg)
 
